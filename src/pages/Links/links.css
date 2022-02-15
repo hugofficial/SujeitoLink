@@ -73,6 +73,7 @@
     padding: 16px 0;
     position: absolute;
     text-align: center;
+    width: 50%;
 }
 
 @media (max-width: 720px) {
