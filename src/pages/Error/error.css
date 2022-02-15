@@ -45,6 +45,15 @@
   font-weight: bold;
 }
 
+.footer {
+    bottom: 0;
+    color: #fff;
+    font-size: 12px;
+    padding: 16px 0;
+    position: absolute;
+    text-align: center;
+}
+
 @media (max-width: 635px) {
   .container-error  {
     width: 90%;
