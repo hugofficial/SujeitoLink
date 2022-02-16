@@ -66,15 +66,7 @@
   color: #fff;
 }
 
-.footer {
-    bottom: 0;
-    color: #fff;
-    font-size: 12px;
-    padding: 16px 0;
-    position: absolute;
-    text-align: center;
-    width: 50%;
-}
+
 
 @media (max-width: 720px) {
   .links-container {
