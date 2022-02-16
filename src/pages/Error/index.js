@@ -9,6 +9,6 @@ export default function Error() {
       <Link to="/">Voltar para Home</Link>
     
     </div>
-    <footer class="footer">Hugolino B. G. 2022. Todos os direitos reservados.</footer>
+   <> <footer class="footer">Hugolino B. G. 2022. Todos os direitos reservados.</footer></>
   );
 }
