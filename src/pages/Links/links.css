@@ -43,6 +43,16 @@
   color: #fff;
 }
 
+.footer {
+    width: 50%;
+    bottom: 0;
+    color: #fff;
+    font-size: 12px;
+    padding: 16px 0;
+    position: absolute;
+    text-align: center;
+}
+
 .link {
   white-space: nowrap;
   overflow: hidden;
