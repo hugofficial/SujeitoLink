@@ -75,6 +75,7 @@
     text-align: center;
     width: 50%;
 }
+}
 
 @media (max-width: 720px) {
   .links-container {
