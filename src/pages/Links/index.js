@@ -77,7 +77,7 @@ export default function Links() {
         <LinkItem closeModal={() => setShowModal(false)} content={data} />
       )}
       
-     <>  <footer class="footer">Hugolino B. G. 2022. Todos os direitos reservados.</footer> </>
+     <footer class="footer">Hugolino B. G. 2022. Todos os direitos reservados.</footer> 
     </div>
   );
 }
